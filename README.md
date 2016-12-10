@@ -46,4 +46,7 @@ __After 'Hooks' discussion:__
 
 Ask for a set of volunteers to attempt to act out algorithm in front of group:
 
-## If Time - Trivia of Objectives
+## If Extra Time
+
+* Trivia of objectives
+* Pair up and write more algorithms (girls come up with their own idea)
