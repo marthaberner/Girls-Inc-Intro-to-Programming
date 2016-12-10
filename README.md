@@ -1,5 +1,7 @@
 # Girls Inc Intro to Programming
 
+Claire and Martha introduce themselves
+
 # Objectives (What)
 * Be able to describe what software is / does
   * A program (set of instructions) that tells a computer how to do something
